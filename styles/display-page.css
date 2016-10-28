@@ -1,0 +1,61 @@
+main {
+
+	font-size:0;
+
+
+	}
+.box_sizing {
+
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:90px;
+
+
+}
+
+
+.box {
+	border:1px solid black;
+	display:inline-block;
+}
+
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+	border:1px solid;
+
+}
+
+.orange {
+	background-color: orange;
+}
+
+.green {
+	background-color: green;
+}
+
+.centered {
+	text-align: center;
+	
+}
+
+.blue {
+	background-color: blue;
+}
+
+.box_half {
+
+	width:50%;
+	height:200px;
+
+}
+
+.smaller_box {
+	width:33.33%;
+	height:300px;
+}
